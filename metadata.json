@@ -1,0 +1,6 @@
+{
+  "name": "Lhokseumawe Fiscal & Economic Intelligence",
+  "description": "Sistem interaktif Analisis Kebijakan Fiskal, Anggaran Daerah (SIPD), dan Lelang Pengadaan (LPSE) Kota Lhokseumawe bersama Penasihat Finansial AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
